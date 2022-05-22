@@ -1,0 +1,13 @@
+nav {
+    border: 2px black solid;
+}
+
+li {
+    display: inline;
+    border: 2px black solid;
+    background-color: aliceblue;
+}
+
+li a:hover {
+    background-color: aquamarine;
+}
